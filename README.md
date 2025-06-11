@@ -4,8 +4,8 @@ Este repositório contém exemplos e comparações de implementações de Progra
 
 ## Conceitos Abordados
 
-✔ Classes e Objetos
-✔ Herança e Polimorfismo
-✔ Encapsulamento (Modificadores de Acesso)
-✔ Abstração e Interfaces
-✔ Métodos Especiais (Construtores, Destrutores, etc.)
+### ✔ Classes e Objetos
+### ✔ Herança e Polimorfismo
+### ✔ Encapsulamento (Modificadores de Acesso)
+### ✔ Abstração e Interfaces
+### ✔ Métodos Especiais (Construtores, Destrutores, etc.)
